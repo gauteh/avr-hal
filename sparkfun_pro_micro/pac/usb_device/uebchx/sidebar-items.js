@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Register `UEBCHX` reader"],["UEBCHX_SPEC","This register you can `read`, `write_with_zero`, `reset`, `write`, `modify`. See API."],["W","Register `UEBCHX` writer"]]});

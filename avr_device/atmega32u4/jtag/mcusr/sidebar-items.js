@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["JTRF_R","Field `JTRF` reader - JTAG Reset Flag"],["JTRF_W","Field `JTRF` writer - JTAG Reset Flag"],["MCUSR_SPEC","MCU Status Register"],["R","Register `MCUSR` reader"],["W","Register `MCUSR` writer"]]});

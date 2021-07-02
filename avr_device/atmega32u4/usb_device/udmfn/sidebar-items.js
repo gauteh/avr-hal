@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FNCERR_R","Field `FNCERR` reader - "],["FNCERR_W","Field `FNCERR` writer - "],["R","Register `UDMFN` reader"],["UDMFN_SPEC","This register you can `read`, `write_with_zero`, `reset`, `write`, `modify`. See API."],["W","Register `UDMFN` writer"]]});

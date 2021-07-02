@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CTRLDIR_R","Field `CTRLDIR` reader - "],["CTRLDIR_W","Field `CTRLDIR` writer - "],["CURRBK_R","Field `CURRBK` reader - "],["CURRBK_W","Field `CURRBK` writer - "],["R","Register `UESTA1X` reader"],["UESTA1X_SPEC","This register you can `read`, `write_with_zero`, `reset`, `write`, `modify`. See API."],["W","Register `UESTA1X` writer"]]});
